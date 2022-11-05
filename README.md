@@ -1,2 +1,10 @@
-# tfdbqol
-Quality of life VPK's for TF2 Dodgeball
+#tfdbqol, Quality of Life for TF2 Dodgeball, a (somewhat) dying gamemode.
+
+Combined the two common "tfdb.vpk" and "TFDB_Quality_of_Life_pack.vpk" into a singular file (both with unknown creators), 
+available both WITHOUT GAMESOUND ( tfdb-qol-nosound ) And with gamesound ( tfdb-qol )
+
+Uses an edited form of popular "snowball" rocket, aka TFC Like Rockets (https://gamebanana.com/mods/12405), except with no rocket trail, no team colours other than the critical effect, has altered volume for the rocket redirect sound, and a far more pleasent rocket beep, far less likely to rift your eardrums. 
+
+Just Copy the VPK file of your choosing, either with or without gamesound into \Team Fortress 2\tf\custom
+
+That's all, with love from db nonamer frodb /id/-fro/
