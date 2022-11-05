@@ -7,4 +7,4 @@ Uses an edited form of popular "snowball" rocket, aka TFC Like Rockets (https://
 
 Just Copy the VPK file of your choosing, either with or without gamesound into \Team Fortress 2\tf\custom
 
-That's all, with love from db nonamer frodb /id/-fro/
+That's all, with love from db nonamer fro /id/-fro/
