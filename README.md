@@ -7,4 +7,6 @@ Uses an edited form of popular "snowball" rocket, aka TFC Like Rockets (https://
 
 Just click releases and download the VPK either with or without gamesound, into \Team Fortress 2\tf\custom
 
+Both QOL packs include the snowball rocket, but you can also just download the snowball rocket alone with tfdb-notrail-snowball. This is not needed if you have any of the QOL packs.
+
 That's all, with love from db nonamer fro /id/-fro/
