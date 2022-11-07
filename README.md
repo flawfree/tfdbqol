@@ -1,5 +1,7 @@
 #tfdbqol, Quality of Life for TF2 Dodgeball, a (somewhat) dying gamemode.
 
+![example](https://raw.githubusercontent.com/flawfree/tfdbqol/main/Team%20Fortress%202%202022.11.06%20-%2023.43.52.05.DVR_Moment.jpg)
+
 Combined the two common "tfdb.vpk" and "TFDB_Quality_of_Life_pack.vpk" into a singular file (both with unknown creators), 
 available both WITHOUT GAMESOUND ( tfdb-qol-nosound ) And with gamesound ( tfdb-qol )
 
@@ -9,4 +11,4 @@ Just click releases and download the VPK either with or without gamesound, into 
 
 Both QOL packs include the snowball rocket, but you can also just download the snowball rocket alone with tfdb-notrail-snowball. This is not needed if you have any of the QOL packs. I'd recommend the tfdb-qol.
 
-That's all, with love from db nonamer fro /id/-fro/
+That's all, with love from db nonamer fro /id/-fro/!
