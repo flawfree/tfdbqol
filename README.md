@@ -1,6 +1,6 @@
 # **TFDBQOL, Quality of Life for TF2 Dodgeball, a (somewhat) dying gamemode.**
 
-![example](https://raw.githubusercontent.com/flawfree/tfdbqol/main/Team%20Fortress%202%202022.11.06%20-%2023.43.52.05.DVR_Moment.jpg)
+![example](https://raw.githubusercontent.com/flawfree/tfdbqol/main/db.PNG)
 
 **[1. tfdb-qol](tfdb-qol.vpk)**
 >New rocket trail, all QOL improvements and new beep.
