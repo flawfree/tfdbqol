@@ -1,5 +1,6 @@
 # **TFDBQOL, Quality of Life for TF2 Dodgeball (TFDB), a (somewhat) dying gamemode.**
 Are you tired of not seeing anything because of the rocket trail? Does your dodgeball crash at ≈200 deflects? This solves both of these issues.
+## Should support all -dxlevels. 100, 90, 81, 80 et cetera.
 
 ![example](https://raw.githubusercontent.com/flawfree/tfdbqol/main/db.PNG)
 
@@ -15,6 +16,9 @@ Are you tired of not seeing anything because of the rocket trail? Does your dodg
 
 **[4. tfdb-qol-sb](tfdb-qol-sb.vpk) & [5. tfdb-qol-nosound-sb](tfdb-qol-nosound-sb.vpk)**
 >Same as tfdb-qol.vpk & tfdb-qol-nosound.vpk, but with **stock beep**, aka the sentry sound, rather than the piano note.
+
+**[6. tfdb-customns](tfdb-customns.vpk)**
+>How I like to play, nosound customized specifically for dodgeball, same as tfdb-qol but with a soundmixer specifically proportionalized for dodgeball. Some sounds game sounds are removed, but round countdown voice and voice commands in game are kept. Uses snowball rocket and piano key beep.
 
 # **Installation**
 Click any of the numbered installations above, then click **download** on the right or "view raw". Place this *.vpk* into: **steamapps\common\Team Fortress 2\tf\custom** . If you are missing the folder, you can just create it. Feel free to test different editions to find what suits you best.
