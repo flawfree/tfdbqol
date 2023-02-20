@@ -12,7 +12,7 @@ Are you tired of not seeing anything because of the rocket trail? Does your dodg
 >Same as above, but with very few gamesounds.
 
 **[3. tfdb-notrail-snowball](tfdb-notrail-snowball.vpk)**
->Only the snowball model, nothing else altered.
+>Only the snowball model, nothing else altered. Stock everything except rocket.
 
 **[4. tfdb-qol-sb](tfdb-qol-sb.vpk) & [5. tfdb-qol-nosound-sb](tfdb-qol-nosound-sb.vpk)**
 >Same as tfdb-qol.vpk & tfdb-qol-nosound.vpk, but with **stock beep**, aka the sentry sound, rather than the piano note.
