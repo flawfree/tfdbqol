@@ -20,6 +20,8 @@ Are you tired of not seeing anything because of the rocket trail? Does your dodg
 **[6. tfdb-customns](tfdb-customns.vpk)**
 >How I like to play, nosound customized specifically for dodgeball, same as tfdb-qol but with a soundmixer specifically proportionalized for dodgeball. Some sounds game sounds are removed, but round countdown voice and voice commands in game are kept. Uses snowball rocket and piano key beep.
 
+**Do you want to set your own rocket sound when using either of the *-sb* editions? see **[this doc](custombeep.md)****
+
 # **Installation**
 Click any of the numbered installations above, then click **download** on the right or "view raw". Place this *.vpk* into: **steamapps\common\Team Fortress 2\tf\custom** . If you are missing the folder, you can just create it. Feel free to test different editions to find what suits you best.
 
