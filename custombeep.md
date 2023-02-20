@@ -1,6 +1,6 @@
 # Changing your beep sound
 
-It's relatively simple to change the rocket beep to your liking. Be aware that this will also change the beep sound the level 1 sentry makes in other gamemodes as well. **This works in combination with both of the -sb editions**.
+It's relatively simple to change the rocket beep to your liking. Be aware that this will also change the beep sound the level 1 sentry makes in other gamemodes as well. **This works in combination with both of the -sb editions**, and of course also works standalone.
 
 Create a folder in your *\common\Team Fortress 2\tf\custom* folder, name this whatever you would like. Inside this folder, create a folder called *sound*, and inside this folder create a folder called *weapons*. Your directory should look like this:
 
