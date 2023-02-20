@@ -26,6 +26,8 @@ Are you tired of not seeing anything because of the rocket trail? Does your dodg
 Click any of the numbered installations above, then click **download** on the right or "view raw". Place this *.vpk* into: **steamapps\common\Team Fortress 2\tf\custom** . If you are missing the folder, you can just create it. Feel free to test different editions to find what suits you best.
 
 **Longer explanation**
->Uses an edited form of popular "snowball" rocket, aka TFC Like Rockets (https://gamebanana.com/mods/12405), except with no rocket trail, no team colours other than the critical effect. *tfdb-qol* is the most standard option. You get all the benefits from the quality of life packs, a new more pleasant rocket beep or sentry sound, and the new rocket. *tfdb-qol-nosound* is the nosound version of this, where almost all sounds except the rocket beep are removed. Both also exist with the suffix *-sb*, which are the same files just without the pleasant beep. You can download this rocket standalone with the *tfdb-notrail-snowball*, which only contains the rocket particle effect. 
+>Uses an edited form of popular "snowball" rocket, aka TFC Like Rockets (https://gamebanana.com/mods/12405), except with no rocket trail, no team colours other than the critical effect. *tfdb-qol* is the most standard option. You get all the benefits from the quality of life packs, a new more pleasant rocket beep or sentry sound, and the new rocket. *tfdb-qol-nosound* is the nosound version of this, where almost all sounds except the rocket beep are removed. Both also exist with the suffix *-sb*, which are the same files just without the pleasant beep. You can download this rocket standalone with the *tfdb-notrail-snowball*, which only contains the rocket particle effect.
+
+Any suggestions? Feel free to post an issue and I'll have a look.
 
 That's all, with love from a dodgeball nonamer
