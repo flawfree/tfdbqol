@@ -1,6 +1,6 @@
 # **TFDBQOL, Quality of Life for TF2 Dodgeball (TFDB), a (somewhat) dying gamemode.**
 Are you tired of not seeing anything because of the rocket trail? Does your dodgeball crash at ≈200 deflects? This solves both of these issues.
-## Should support all -dxlevels. 100, 90, 81, 80 et cetera, should also work on casual / sv_pure 1 servers.
+### Should support all -dxlevels. 100, 90, 81, 80 et cetera, should also work on casual / sv_pure 1 servers.
 
 ![example](https://raw.githubusercontent.com/flawfree/tfdbqol/main/db.PNG)
 
@@ -25,7 +25,7 @@ Are you tired of not seeing anything because of the rocket trail? Does your dodg
 # **Installation**
 Click any of the numbered installations above, then click **download** on the right or "view raw". Place this *.vpk* into: **steamapps\common\Team Fortress 2\tf\custom** . If you are missing the folder, you can just create it. Feel free to test different editions to find what suits you / your playstyle best. Remember, changing to a far larger rocket **will** make you miss a lot starting out, but it could be worth it on the long term. 
 
-## **Credits**
+### **Credits**
 >Uses an edited form of popular "snowball" rocket, aka TFC Like Rockets (https://gamebanana.com/mods/12405), except with no rocket trail, no team colours other than the critical effect. version 1, 2, 4, 5 and 6 also use the custom additions from two custom vpk's for dodgeball that have been passed around for ages without any author. *tfdb.vpk* and *TFDB_Quality_of_Life_pack.vpk*. This project came about after having gripes with the snowball model looking through the existing dodgeball vpk's and seeing many redundant files doubling up. I've personally used the piano key beep for years, and have realized 99% of players use the stock beep, and very few people have access to the dodgeball vpk's without good connections inside dodgeball.
 
 Any suggestions? Feel free to post an issue and I'll have a look.
