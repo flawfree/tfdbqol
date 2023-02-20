@@ -4,7 +4,7 @@ It's relatively simple to change the rocket beep to your liking. Be aware that t
 
 Create a folder in your *\common\Team Fortress 2\tf\custom* folder, name this whatever you would like. Inside this folder, create a folder called *sound*, and inside this folder create a folder called *weapons*. Your directory should look like this:
 
->**\common\Team Fortress 2\tf\custom\(whatever you named your folder)\sound\weapons**
+>**\common\Team Fortress 2\tf\custom\ (whatever you named your folder) \sound\weapons**
 
 Inside here, place any **.wav** file, and name it **sentry_spot.wav**, mp3 files will not work. You might have to trial and error with the volume of your .wav to fit it to your liking. Join a DB server, and try it out.
 
