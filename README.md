@@ -1,4 +1,4 @@
-# **TFDBQOL, Quality of Life for TF2 Dodgeball (TFDB), a (somewhat) dying gamemode.**
+# **Snowball rocket for TFDB & Quality of Life for TF2 Dodgeball (TFDB), a (somewhat) dying gamemode.**
 Are you tired of not seeing anything because of the rocket trail? Does your dodgeball crash at ≈200 deflects? This solves both of these issues.
 ### Should support all -dxlevels. 100, 90, 81, 80 et cetera, should also work on casual / sv_pure 1 servers.
 
