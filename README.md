@@ -1,9 +1,9 @@
-# **Snowball rocket replacement for TFDB & a Quality of Life for TF2 Dodgeball (TFDB) pack, a (somewhat) dying gamemode.**
-Are you tired of the rocket trail blocking your vision? Does your TF2 crash at ≈200 rocket deflects? This helps both of these issues.
-### Should support all -dxlevels. 100, 90, 81, 80 et cetera, also works on casual / sv_pure 1 servers.
-with love from a dodgeball nonamer; fro. https://steamcommunity.com/id/druginduced
-
+# **Snowball rocket replacement for TFDB & a Quality of Life pack for TF2 Dodgeball (TFDB), a (somewhat) dying gamemode.**
+Are you tired of the rocket trail blocking your vision? Does your TF2 crash at ≈200 rocket deflects? This helps both of these issues. Better rocket visibility, nosound editions, editions with better rocket beep, and assistance choosing your own rocket beep can also be found here.
+### Supports all -dxlevels I'm aware of. 100, 90, 81, 80 et cetera, also supports casual / sv_pure 1 servers.
 ![example](https://raw.githubusercontent.com/flawfree/tfdbqol/main/db.PNG)
+
+all with love from a dodgeball nonamer; fro. https://steamcommunity.com/id/druginduced
 
 # Editions
 **[1. tfdb-qol](tfdb-qol.vpk)**
@@ -29,4 +29,4 @@ Click any of the numbered installations above, then click **download** on the ri
 ### **Credits**
 >Uses a highlyedited form of the formerly popular TFC Like Rockets (https://gamebanana.com/mods/12405), except with no rocket trail, no team colours other than the critical effect, far less particles to help optimize for higher speeds, and an adjusted size. version 1, 2, 4, 5 and 6 also use the custom additions from two custom vpk's for dodgeball that have been passed around for ages without any known author. *tfdb.vpk* and *TFDB_Quality_of_Life_pack.vpk*. For years people have been using both vpks with redundant files and with little to no knowledge of the effects it has.
 
-Any suggestions? Feel free to post an issue and I'll have a look. You can also add / message me on Steam. I might post further. Thank you for the persistent downloads and use.
+Any suggestions? Feel free to post an issue and I'll have a look. You can also add / message me on Steam. I might post further files or content for dodgeball, as I've invested far too many hours into it to not give back.
