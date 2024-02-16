@@ -3,7 +3,7 @@ Are you tired of the rocket trail blocking your vision? Does your TF2 crash at â
 ### Supports all -dxlevels. 100, 90, 81, 80 et cetera, also supports casual / sv_pure 1 servers.
 ![example](https://raw.githubusercontent.com/flawfree/tfdbqol/main/db.PNG)
 
-all with love from a dodgeball nonamer; [fro](https://steamcommunity.com/id/druginduced).
+The rocket is from an altered version of TFC Like rockets, credited below, and nosound, some custom additions & inspiration from two years old custom vpk's graciously made by [Chodens](https://steamcommunity.com/id/chodens), father of MTX.
 
 # Editions (Downloads)
 **[1. tfdb-qol](tfdb-qol.vpk)**
@@ -29,6 +29,4 @@ All editions support the -dxlevel versions I'm aware of. 100, 90, 81, 80 et cete
 Click any of the numbered installations above, then click **download** on the right or "view raw". Place this *.vpk* into: **steamapps\common\Team Fortress 2\tf\custom** . If you are missing the folder, create it. Feel free to test different editions to find what suits you / your playstyle best. Remember, changing to a far larger rocket **will** make you miss a lot starting out, but it could be worth it on the long term. 
 
 ### **Credits**
->Uses a highly edited form of the previously popular TFC Like Rockets ([GameBanana](https://gamebanana.com/mods/12405)), except with no rocket trail, only critical effect team colors, far less particles to help fps/crashing at high deflects, and an adjusted size. version 1, 2, 4, 5 and 6 also use the custom additions from two custom vpk's for dodgeball that have been passed around for ages without any known author. *tfdb.vpk* and *TFDB_Quality_of_Life_pack.vpk*. For years people have been using both vpks with redundant files and with little to no knowledge of the effects it has.
-
-Any suggestions? You can add and message me on [steam](https://steamcommunity.com/id/druginduced), or post an issue on GitHub. I might post further files or content for dodgeball, as I've invested far too many hours into it.
+>Uses a highly edited form of the previously popular TFC Like Rockets ([GameBanana](https://gamebanana.com/mods/12405)), except with no rocket trail, only critical effect team colors, far less particles to help fps/crashing at high deflects, and an adjusted size. version 1, 2, 4, 5 and 6 also use the custom additions from two custom vpk's graciously made by [Chodens](https://steamcommunity.com/id/chodens), mr pimp daddy himself. *tfdb.vpk* and *TFDB_Quality_of_Life_pack.vpk*. For years people have been spreading these vpk's word of mouth using both vpks with redundant files.
